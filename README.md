@@ -1,10 +1,10 @@
 # CPSC350Assignment3
 
-Meghna Raswan
-2337415
-raswan@chapman.edu
-CPSC 350
-Assignment 3
+#Meghna Raswan
+#2337415
+#raswan@chapman.edu
+#CPSC 350
+#Assignment 3
 
 Files:
 - main.cpp
